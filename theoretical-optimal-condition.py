@@ -12,7 +12,7 @@ warnings.filterwarnings('ignore')
 sns.set_style("whitegrid")
 
 print("Loading data...")
-df = pd.read_csv('TotalMerged.csv')
+df = pd.read_csv('inputs/TotalMerged.csv')
 
 yield_90th = df['Yield'].quantile(0.90)
 yield_75th = df['Yield'].quantile(0.75)

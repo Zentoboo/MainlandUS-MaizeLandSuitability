@@ -12,7 +12,7 @@ os.makedirs('outputs/monthly_suitability/data', exist_ok=True)
 os.makedirs('outputs/monthly_suitability/summary', exist_ok=True)
 
 print("Loading monthly data...")
-df = pd.read_csv('D:/study/2509/SWE404/assignment1/PRISM+gNATSGO.csv')
+df = pd.read_csv('inputs/TotalMerged.csv')
 
 df['FIPS'] = df['FIPS'].astype(str).str.zfill(5)
 
