@@ -1,0 +1,13 @@
+MONTHLY LAND SUITABILITY CLASSIFICATION - SUMMARY
+
+Period: January 2020 - December 2024
+Total Months Analyzed: 60
+
+AVERAGE SUITABILITY (All Months):
+S1 (Highly Suitable):      12.0%
+S2 (Moderately Suitable):  22.7%
+S3 (Marginally Suitable):  53.5%
+N (Not Suitable):          10.6%
+No Data (Missing/Invalid): 1.2%
+
+Average Suitability Score: 54.5%

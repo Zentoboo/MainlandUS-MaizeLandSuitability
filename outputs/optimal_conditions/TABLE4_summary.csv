@@ -1,0 +1,15 @@
+Metric,Value
+Total Observations,7218
+Unique Counties,1865
+Years Covered,2020-2024
+Mean Yield (bu/acre),148.1
+Top 10% Threshold (bu/acre),201.6
+Top 25% Threshold (bu/acre),184.0
+Best County (FIPS),16087
+Best County Avg Yield,228.7
+Optimal Mean Temp (°C),20.9
+Optimal Min Temp (°C),14.8
+Optimal Precipitation (mm),459
+Optimal Clay (%),26.3
+Optimal Sand (%),11.0
+Optimal pH,6.4

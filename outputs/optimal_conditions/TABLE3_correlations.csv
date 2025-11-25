@@ -1,0 +1,11 @@
+Parameter,Correlation,P_Value,Significance
+Sand (%),-0.195,0.000000,***
+Clay (%),0.111,0.000000,***
+Water Storage,0.105,0.000000,***
+Min Temp (°C),0.103,0.000000,***
+Bulk Density,0.103,0.000000,***
+Organic Matter (%),-0.091,0.000000,***
+Mean Temp (°C),0.083,0.000000,***
+Max Temp (°C),0.054,0.000005,***
+Precipitation (mm),0.019,0.115551,
+pH,0.012,0.289234,
