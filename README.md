@@ -156,15 +156,6 @@ The interactive interface provides:
 - Hybrid modeling combining agronomic thresholds with machine learning approaches
 - Field validation using observed yield data or vegetation indices
 
-## Citation
-
-If you use this work in your research, please cite:
-```
-Bertrand, C., Fane, P., & William, E. (2025). Big Data Application to Mapping Maize 
-Suitability Across the United States. SWE 404 Big Data Analytics Course Project, 
-Xiamen University Malaysia.
-```
-
 ## References
 
 Key methodological references:
@@ -172,10 +163,6 @@ Key methodological references:
 - Taghizadeh-Mehrjardi et al. (2020). Land suitability assessment and agricultural production sustainability using machine learning models. *Agronomy*, 10(4), 573.
 
 Full reference list available in the project report.
-
-## License
-
-This project is released under the MIT License. See LICENSE file for details.
 
 ## Contact
 
